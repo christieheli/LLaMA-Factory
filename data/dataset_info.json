@@ -515,5 +515,18 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "hqwx_market_exam_zh": {
+    "file_name": "hqwx_market_exam_zh.json"
+  },
+  "hqwx_oasst_sf": {
+    "file_name": "hqwx_oasst_sf.json",
+    "columns": {
+      "prompt": "instruction",
+      "query":"input",
+      "response":"output",
+      "system":"system",
+      "history":"history"
+    }
   }
 }
